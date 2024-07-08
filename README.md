@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientists
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
