@@ -4,20 +4,21 @@ Based in [Lisbon, Portugal](https://www.google.com/maps/place/Lisbon,+Portugal)
 ---
 
 ### Education
-B.Sc., Applied Statistics and Economics
+**B.Sc., Applied Statistics and Economics**
 The University of Cape Town, South Africa (_Jun 2018_)
 
 #### Additional Short Courses Completed:
-- **Data Science - Machine Learning**: HarvardX (2023)
-- **Certified Data Management Professional Associate**: Data Management Association (2021)
-- **Machine Learning and Deep Learning A-Z in R and Python**: Super Data Science (2021)
-- **Sanlam Data Science Graduate**: Sanlam (2020)
+- Data Science - Machine Learning: HarvardX (2023)
+- Certified Data Management Professional Associate: Data Management Association (2021)
+- Machine Learning and Deep Learning A-Z in R and Python: Super Data Science (2021)
+- Sanlam Data Science Graduate: Sanlam (2020)
+
 ---
 
 ### Work Experience
 **Data Scientist @ Efficio Consulting Limitied (_Mar 2024 - Present_)**
 _Lisbon, Portugal_
-- Designed and built a data pipeline in Apache Airflow which boosted client savings by over 90%.
+- Designed and built a data pipeline in Apache Airflow which boosted client savings by 90%.
 - Served as Domain Lead for the data scientists, managing tasks and facilitating information-share to ensure seamless project execution.
 
 **Data Analyst @ Yoco Technologies (_Apr 2022 - Mar 2024_)**
