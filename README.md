@@ -1,9 +1,13 @@
 # Data Scientist
 Based in [Lisbon, Portugal](https://www.google.com/maps/place/Lisbon,+Portugal)
+
 ---
+
 ### Education
 - B.Sc., Applied Statistics and Economics | The University of Cape Town, South Africa (_Jun 2018_)
+
 ---
+
 ### Work Experience
 **Data Scientist @ Efficio Consulting Limitied (_Mar 2024 - Present_)**
 Insert Location
@@ -24,7 +28,9 @@ Insert Location
 **Data Analytics and HR Intern @ Tsebo Solutions Group (_Jul 2019 - Dec 2019_)**
 Insert Location
 - Launched a nationwide Employee Experience Survey for 1,000+ employees, analyzing and visualizing data for departmental insights.
+  
 ---
+
 ### Technical & Soft Skills:
 
 | **Category**               | **Details**                                                                                                                                                           |
