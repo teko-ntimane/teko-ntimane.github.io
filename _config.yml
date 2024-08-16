@@ -4,10 +4,10 @@ description: Moderator, Speaker, Mentor
 # show_downloads: true
 theme: jekyll-theme-minimal
 
-achievements:
-  - title: Tech4Dev Moderator, Speaker & Mentor
-    description: Empowering women and girls across Africa with digital skills and work readiness.
-    link: "https://example.com/tech4dev"
+title: Achivements
+title: Tech4Dev Moderator, Speaker & Mentor
+description: Empowering women and girls across Africa with digital skills and work readiness.
+link: "https://example.com/tech4dev"
 
   - title: Youth Ambassador
     description: Women In Tech South African Youth Ambassador and 2x winner for Digital & Social Impact (Paris, France).
