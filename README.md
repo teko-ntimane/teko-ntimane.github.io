@@ -1,7 +1,7 @@
 # Data Scientist
 Based in [Lisbon, Portugal](https://www.google.com/maps/place/Lisbon,+Portugal)
 
-#### Technical & Soft Skills:
+### Technical & Soft Skills:
 
 | **Category**               | **Details**                                                                                                                                                           |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -11,11 +11,11 @@ Based in [Lisbon, Portugal](https://www.google.com/maps/place/Lisbon,+Portugal)
 | **Data Visualization**     | PowerBI, Looker, Google Data Studio, Metabase, Python (Matplotlib, Seaborn), R (Tidyverse, ggplot2)                                                                   |
 | **Tools**                  | Jira, GitLab                                                                                                                                                           |
 | **Soft Skills**            | Public Speaking, Presentation, Collaboration, Communication, Detail-Oriented, Analytical, Agile, Culturally Aware                                                    |
-
-## Education
+---
+### Education
 - B.Sc., Applied Statistics and Economics | The University of Cape Town, South Africa (_Jun 2018_)
-
-## Work Experience
+---
+### Work Experience
 **Data Scientist @ Efficio Consulting Limitied (_Mar 2024 - Present_)**
 Insert Location
 - Designed and built a data pipeline in Apache Airflow which boosted client savings by over 90%.
