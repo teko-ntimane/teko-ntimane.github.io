@@ -1,16 +1,5 @@
 # Data Scientist
 Based in [Lisbon, Portugal](https://www.google.com/maps/place/Lisbon,+Portugal)
-
-### Technical & Soft Skills:
-
-| **Category**               | **Details**                                                                                                                                                           |
-|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Cloud**                  | AWS (Redshift, Lambda, Apache Airflow, S3, Parameter Store), Google BigQuery, Cloudera, SAP                                                                          |
-| **Programming**            | R, Python (Scikit-learn, NumPy, Pandas, PyTorch, PySpark, Keras), SQL, Git, GitLab, DBT, Ubuntu                                                                     |
-| **Machine Learning Models**| Tree-Based, Clustering, Neural Networks, Regression, Classification, Natural Language Processing, Data Analysis                                                      |
-| **Data Visualization**     | PowerBI, Looker, Google Data Studio, Metabase, Python (Matplotlib, Seaborn), R (Tidyverse, ggplot2)                                                                   |
-| **Tools**                  | Jira, GitLab                                                                                                                                                           |
-| **Soft Skills**            | Public Speaking, Presentation, Collaboration, Communication, Detail-Oriented, Analytical, Agile, Culturally Aware                                                    |
 ---
 ### Education
 - B.Sc., Applied Statistics and Economics | The University of Cape Town, South Africa (_Jun 2018_)
@@ -32,7 +21,17 @@ Insert Location
 - Created and deployed the Client Offer Matrix (based on Client Lifetime Value models), boosting targeted cross-sell and upsell success.
 - Predicted mortality rates with machine learning, identifying underwriting gaps and improving policy terms and claims outcomes.
 
-
 **Data Analytics and HR Intern @ Tsebo Solutions Group (_Jul 2019 - Dec 2019_)**
 Insert Location
 - Launched a nationwide Employee Experience Survey for 1,000+ employees, analyzing and visualizing data for departmental insights.
+---
+### Technical & Soft Skills:
+
+| **Category**               | **Details**                                                                                                                                                           |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Cloud**                  | AWS (Redshift, Lambda, Apache Airflow, S3, Parameter Store), Google BigQuery, Cloudera, SAP                                                                          |
+| **Programming**            | R, Python (Scikit-learn, NumPy, Pandas, PyTorch, PySpark, Keras), SQL, Git, GitLab, DBT, Ubuntu                                                                     |
+| **Machine Learning Models**| Tree-Based, Clustering, Neural Networks, Regression, Classification, Natural Language Processing, Data Analysis                                                      |
+| **Data Visualization**     | PowerBI, Looker, Google Data Studio, Metabase, Python (Matplotlib, Seaborn), R (Tidyverse, ggplot2)                                                                   |
+| **Tools**                  | Jira, GitLab                                                                                                                                                           |
+| **Soft Skills**            | Public Speaking, Presentation, Collaboration, Communication, Detail-Oriented, Analytical, Agile, Culturally Aware                                                    |
