@@ -28,7 +28,7 @@ Insert Location
 - Launched a nationwide Employee Experience Survey for 1,000+ employees, analyzing and visualizing data for departmental insights.
 
 
-## Achievements
+## Something else
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
