@@ -2,7 +2,13 @@ title: Teko Ntimane
 logo: /assets/img/headshot_circle.jpg
 description: >
   Moderator, Speaker, Mentor 
-  <div style="max-height: 150px; overflow-y: auto;">
+  <div style="max-height: 150px; overflow-y: scroll; font-size: 12px; scrollbar-width: none; -ms-overflow-style: none;">
+    <style>
+      /* Hide scrollbar for Webkit browsers */
+      div::-webkit-scrollbar {
+        display: none;
+      }
+    </style>
     <br><br>
     <h3>Achievements</h3>
     <ul>
