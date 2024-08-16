@@ -1,9 +1,18 @@
 title: Teko Ntimane
 logo: /assets/img/headshot_circle.jpg
-description: Moderator, Speaker, Mentor
+description: >
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
 
-achievements: hello
+  
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+# - jekyll-remote-theme
+
   # - title: Tech4Dev Moderator, Speaker & Mentor
   #   description: Empowering women and girls across Africa with digital skills and work readiness.
   #   link: "https://example.com/tech4dev"
