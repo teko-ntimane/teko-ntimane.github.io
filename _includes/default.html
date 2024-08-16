@@ -41,7 +41,7 @@
 
         <!-- Achievements Section -->
         {% if site.achievement %}
-        <a href="{{ achievement.link }}">{{ achievement.title }}</a>: {{ achievement.description }}
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.achievement | default: site.github.repository_name }}</a></h1>
         {% endif %}
         
         <h3>Achievements</h3>
