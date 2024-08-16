@@ -3,3 +3,24 @@ logo: /assets/img/headshot_circle.jpg
 description: Moderator, Speaker, Mentor
 # show_downloads: true
 theme: jekyll-theme-minimal
+
+achievements:
+  - title: Tech4Dev Moderator, Speaker & Mentor
+    description: Empowering women and girls across Africa with digital skills and work readiness.
+    link: "https://example.com/tech4dev"
+
+  - title: Youth Ambassador
+    description: Women In Tech South African Youth Ambassador and 2x winner for Digital & Social Impact (Paris, France).
+    link: "https://example.com/youth-ambassador"
+
+  - title: Global Program Coordinator
+    description: Co-launched Women In Tech Global Mentorship, connecting 200+ mentors with 1,000+ mentees.
+    link: "https://example.com/global-program-coordinator"
+
+  - title: Program Pioneer
+    description: Launched Sanlam's Data & Digital Academy experience week, providing practical experience to students.
+    link: "https://example.com/program-pioneer"
+
+  - title: Founder & Campaign Champion
+    description: Raised R16,000+ by founding End.ometriosis and running 21km for menstrual health awareness.
+    link: "https://example.com/endometriosis-campaign"
