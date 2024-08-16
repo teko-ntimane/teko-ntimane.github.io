@@ -1,3 +1,9 @@
+<style>
+  body {
+    font-size: smaller;
+  }
+</style>
+
 # Data Scientist
 Based in [Lisbon, Portugal](https://www.google.com/maps/place/Lisbon,+Portugal)
 
