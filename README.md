@@ -14,10 +14,10 @@ Based in [Lisbon, Portugal](https://www.google.com/maps/place/Lisbon,+Portugal)
 The University of Cape Town, South Africa (_Jun 2018_)
 
 #### Additional Short Courses Completed:
-**Data Science - Machine Learning:** HarvardX (2023)
-**Certified Data Management Professional Associate:** Data Management Association (2021)
-**Machine Learning and Deep Learning A-Z in R and Python:** Super Data Science (2021)
-**Sanlam Data Science Graduate:** Sanlam (2020)
+**Data Science - Machine Learning:** HarvardX (2023)<br>
+**Certified Data Management Professional Associate:** Data Management Association (2021)<br>
+**Machine Learning and Deep Learning A-Z in R and Python:** Super Data Science (2021)<br>
+**Sanlam Data Science Graduate:** Sanlam (2020)<
 
 ---
 
