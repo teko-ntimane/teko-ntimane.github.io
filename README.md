@@ -29,7 +29,8 @@ _Lisbon, Portugal_
 <span style="font-size: 12px;">
 - Engineered a transformative DAG, processing monthly orders with advanced flagging and confidence scoring mechanisms, driving an increase in client savings and precision in order queries through the use of AWS, Python and SQL.
 - Successfully implemented the migration of database private keys to AWS Parameter Store, enhancing security and streamlining the data team’s team workflows.
-- Automated large dataset processing for global teams, reducing analysis time from 1 day for 50% processing of 1 file to under 1 day for 100% processing of 4 files and additional analytics, resulting in actionable insights which led to significant cost savings.
+- Automated large dataset processing for global teams, reducing analysis time from 1 day for 50% processing of 1 file to under 1 day for 100% processing of 4 files and additional analytics, resulting in actionable insights.
+
 </span>
 
 **Data Analyst @ Yoco Technologies (_Apr 2022 - Mar 2024_)**<br>
@@ -41,6 +42,7 @@ _Cape Town, South Africa_
 - Supported Customer Operations, Logistics and Commercial teams by delivering critical insights through developing and maintaining dashboards, conducting user journey mappings, and implementing data SQL modeling primarily using DBT. This support enabled teams to track key metrics and OKRs effectively, driving informed decision-making and operational improvements.
 - Conducted an exploratory capacity modeling analysis using statistical techniques to determine the optimal number of customer support resources needed, preventing potential bottlenecks and ensuring efficient operations.
 - Migrated a monthly acquisition target model from Google Sheets to DBT, addressing scalability and maintenance challenges. The original model required frequent manual updates and was time-consuming. By automating 90% of the process, I streamlined operations, reducing manual input significantly, and provided the Commercial team with the ability to forecast acquisitions for several months in advance.
+
 </span>
 
 **Data Scientist & Graduate @ Sanlam Limited (_Jan 2020 - Mar 2022_)**<br>
@@ -51,6 +53,7 @@ _Cape Town, South Africa_
 - Collaborated with Sanlam Life to analyze the impact of Covid-19 on their claims experience. Utilized advanced analytics to estimate and forecast the number and value of policy claims related to mortalities during the pandemic, addressing the challenge of limited data on Covid-related mortalities available at the early stages of the pandemic.
 - Pioneered the Sanlam SDDA Workplace Experience by recruiting final-year university students and providing them with hands-on data science and analytics training, as well as networking opportunities within the organization. Orchestrated a week of on-the-job training in collaboration with the Dell Foundation, which has been successfully running for three years.
 - Served as a tutor for the Data Science and Analytics module, assisting in the facilitation of learning and providing guidance to a cohort of approximately 25 graduates and existing staff, helping them master complex concepts and apply analytical techniques effectively.
+
 </span>
 
 **Data Analytics and HR Intern @ Tsebo Solutions Group (_Jul 2019 - Dec 2019_)**<br>
@@ -60,17 +63,21 @@ _Johannesburg, South Africa_
 - Redesigned and transitioned key operational and tactical dashboards from Microsoft Excel to PowerBI, and managed the monthly maintenance of the data flow to these dashboards.
 - Conducted competitive analysis using statistical methods to scrape and extrapolate key metrics from competitors, providing deeper industry insights and identifying internal opportunities.
 - Facilitated development and succession planning for executive and senior employees, screened and interviewed candidates, and led a large-scale recruitment drive with the South African Department of Home Affairs for junior roles in Orlando West, Soweto. Successfully placed over 30 candidates across Johannesburg with the help of a dedicated team.
+
 </span>
   
 ---
 
 ### Technical & Soft Skills:
+<span style="font-size: 12px;">
 
 | **Category**               | **Details**                                                                                                                                                           |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Cloud**                  | AWS (Redshift, Lambda, Apache Airflow, S3, Parameter Store), Google BigQuery, Cloudera, SAP                                                                          |
 | **Programming**            | R, Python (Scikit-learn, NumPy, Pandas, PyTorch, PySpark, Keras), SQL, Git, GitLab, DBT, Ubuntu                                                                     |
-| **Machine Learning Models**| Tree-Based, Clustering, Neural Networks, Regression, Classification, Natural Language Processing, Data Analysis                                                      |
+| **Machine Learning Models**| Tree-Based, Clustering, Neural Networks, Regression, Classification, Natural Language Processing (Topic Modelling, Sentiment Analysis), Data Analysis                                                      |
 | **Data Visualization**     | PowerBI, Looker, Google Data Studio, Metabase, Python (Matplotlib, Seaborn), R (Tidyverse, ggplot2)                                                                   |
 | **Tools**                  | Jira, GitLab                                                                                                                                                           |
 | **Soft Skills**            | Public Speaking, Presentation, Collaboration, Communication, Detail-Oriented, Analytical, Agile, Culturally Aware                                                    |
+
+</span>
