@@ -26,7 +26,7 @@ The University of Cape Town, South Africa (_Jun 2018_)
 ### Work Experience
 **Data Scientist @ Efficio Consulting Limitied** (Mar 2024 - Present)<br>
 _Lisbon, Portugal_
-- Engineered a transformative DAG, processing monthly orders with advanced flagging and confidence scoring mechanisms, driving an increase in client savings and precision in order queries through the use of AWS, Python and SQL.
+- Currently engineering a transformative DAG, processing monthly orders with advanced flagging and confidence scoring mechanisms, which will drive an increase in client savings and precision in order queries through the use of AWS, Python and SQL.
 - Successfully implemented the migration of database private keys to AWS Parameter Store, enhancing security and streamlining the data team’s team workflows.
 - Automated large dataset processing for global teams, reducing analysis time from 1 day for 50% processing of 1 file to under 1 day for 100% processing of 4 files and additional analytics, resulting in actionable insights.
 
