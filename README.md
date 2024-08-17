@@ -13,8 +13,8 @@ Based in [Lisbon, Portugal](https://www.google.com/maps/place/Lisbon,+Portugal)
 **B.Sc., Applied Statistics and Economics**
 The University of Cape Town, South Africa (_Jun 2018_)
 
-<span style="font-size: 10px;">
 #### Additional Short Courses Completed:
+<span style="font-size: 10px;">
 **Data Science - Machine Learning:** HarvardX (2023)<br>
 **Certified Data Management Professional Associate:** Data Management Association (2021)<br>
 **Machine Learning and Deep Learning A-Z in R and Python:** Super Data Science (2021)<br>
@@ -27,18 +27,18 @@ The University of Cape Town, South Africa (_Jun 2018_)
 **Data Scientist @ Efficio Consulting Limitied (_Mar 2024 - Present_)**<br>
 _Lisbon, Portugal_
 - Engineered a transformative DAG, processing monthly orders with advanced flagging and confidence scoring mechanisms, driving an increase in client savings and precision in order queries through the use of AWS, Python and SQL.
-- Spearheaded the migration of database private keys to AWS Parameter Store, enhancing security and streamlining the data team’s team workflows.
+- Successfully implemented the migration of database private keys to AWS Parameter Store, enhancing security and streamlining the data team’s team workflows.
 - Automated large dataset processing for global teams, reducing analysis time from 1 day for 50% processing of 1 file to under 1 day for 100% processing of 4 files and additional analytics, resulting in actionable insights which led to significant cost savings.
 
 
 **Data Analyst @ Yoco Technologies (_Apr 2022 - Mar 2024_)**<br>
-_Cape Town, South 
+_Cape Town, South Africa_
 - Used data modeling and SQL to dramatically reduce order cancellation rates from 83% to 5% within 2 weeks, achieving cost savings exceeding 300,000 ZAR (approx. 15,000 EUR).
 - (R&D team member:) Redefined business customer segmentation rules using advanced clustering techniques and feature engineering, which served as a cornerstone for tracking OKRs.
 - Maintained and developed the Customer Acquisition Cost model, enabling merchant-specific payback analysis and enhancing insights into acquisition costs across different merchant types, supporting strategic reporting to Exco and shareholders.
 - Supported Customer Operations, Logistics and Commercial teams by delivering critical insights through developing and maintaining dashboards, conducting user journey mappings, and implementing data SQL modeling primarily using DBT. This support enabled teams to track key metrics and OKRs effectively, driving informed decision-making and operational improvements.
 - Conducted an exploratory capacity modeling analysis using statistical techniques to determine the optimal number of customer support resources needed, preventing potential bottlenecks and ensuring efficient operations.
-- Automated the acquisition model thing (Commercial Performance)
+- Migrated a monthly acquisition target model from Google Sheets to DBT, addressing scalability and maintenance challenges. The original model required frequent manual updates and was time-consuming. By automating 90% of the process, I streamlined operations, reducing manual input significantly, and provided the Commercial team with the ability to forecast acquisitions for several months in advance.
 
 
 **Data Scientist & Graduate @ Sanlam Limited (_Jan 2020 - Mar 2022_)**<br>
@@ -52,7 +52,10 @@ _Cape Town, South Africa_
 
 **Data Analytics and HR Intern @ Tsebo Solutions Group (_Jul 2019 - Dec 2019_)**<br>
 _Johannesburg, South Africa_
-- Launched a nationwide Employee Experience Survey for 1,000+ employees, analyzing and visualizing data for departmental insights.
+- Collaborated with the HR Project Manager to launch a nationwide Employee Experience Survey for 1,000+ employees, analyzing and visualising the collected data to present actionable insights, opportunities, and challenges to department heads.
+- Redesigned and transitioned key operational and tactical dashboards from Microsoft Excel to PowerBI, and managed the monthly maintenance of the data flow to these dashboards.
+- Conducted competitive analysis using statistical methods to scrape and extrapolate key metrics from competitors, providing deeper industry insights and identifying internal opportunities.
+- Facilitated development and succession planning for executive and senior employees, screened and interviewed candidates, and led a large-scale recruitment drive with the South African Department of Home Affairs for junior roles in Orlando West, Soweto. Successfully placed over 30 candidates across Johannesburg with the help of a dedicated team.
   
 ---
 
