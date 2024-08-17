@@ -20,6 +20,7 @@ The University of Cape Town, South Africa (_Jun 2018_)
 **Machine Learning and Deep Learning A-Z in R and Python:** Super Data Science (2021)<br>
 **Sanlam Data Science Graduate:** Sanlam (2020)
 </span>
+
 ---
 
 ### Work Experience
