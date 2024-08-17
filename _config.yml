@@ -10,7 +10,7 @@ description: >
     View My LinkedIn Profile
   </a>
   <div style="text-align: center;"><h3>Achievements</h3></div>
-  <div style="max-height: 250px; overflow-y: scroll; font-size: 12px; scrollbar-width: none; -ms-overflow-style: none;">
+  <div style="max-height: 230px; overflow-y: scroll; font-size: 12px; scrollbar-width: none; -ms-overflow-style: none;">
     <style>
       /* Hide scrollbar for Webkit browsers */
       div::-webkit-scrollbar {
@@ -22,14 +22,13 @@ description: >
     <a href="https://www.youtube.com/watch?v=3DOpdgdb4HE">YouTube Live Stream</a>
     <br><br>
 
-    <strong>Program Pioneer:</strong> 
-    <p>Launched Sanlam's Data & Digital Academy experience week, providing practical experience to students.</p>
-    <a href="https://example.com/program-pioneer">Learn more</a>
+    <strong>Data Science Program Pioneer:</strong> 
+    <p>Pioneered the Sanlam SDDA Workplace Experience, offering final-year university students hands-on data science training and networking opportunities, in collaboration with the Dell Foundation. The program, which includes a week of on-the-job training, has been running successfully for three years.</p>
     <br><br>
     
     <strong>Women In Tech Youth Ambassador</strong> 
-    <a>As a two-time chapter winner for Digital & Social Impact in Paris, France, we are an international organization dedicated to closing the gender gap and encouraging women to embrace technology. Our mission is to educate, equip, and empower women and girls with the skills and confidence needed to thrive in STEAM careers.</a>
-    <a href="https://www.linkedin.com/company/womenintech-south-africa/">Learn more</a>
+    <p>As a two-time chapter winner for Digital & Social Impact in Paris, France, we are an international organization dedicated to closing the gender gap and encouraging women to embrace technology. Our mission is to educate, equip, and empower women and girls with the skills and confidence needed to thrive in STEAM careers.</p>
+    <a href="https://www.linkedin.com/company/womenintech-south-africa/">Women In Tech SA LinkedIn</a>
     <br><br>
     
     <strong>Fireside Chat Moderator</strong> 
@@ -39,12 +38,11 @@ description: >
     
     <strong>Global Program Coordinator:</strong> 
     <p>Co-launched Women In Tech Global Mentorship, connecting 200+ mentors with 1,000+ mentees to support and encourage women and girls in developing career-specific skills and empowering them to build confidence, communicate effectively, and pursue opportunities (2022).</p>
-    <a href="https://women-in-tech-mentoring.oneuponedown.org/">Learn more</a>
+    <a href="https://women-in-tech-mentoring.oneuponedown.org/">Women In Tech Global Mentorship Program</a>
     <br><br>
     
     <strong>Founder & Campaign Champion:</strong> 
-    <p>Raised R16,000+ by founding End.ometriosis and running 21km for menstrual health awareness.</p>
-    <a href="https://example.com/endometriosis-campaign">Learn more</a>
+    <p>Patnered with Caring4Girls (under the Imbumba Foundation) to raise awareness, funds and resources for women with limited access to sanitary towels and those living with endometriosis through participating in the Soweto Marathon to run 21km. Over 16,000 (approx. 800 EUR) and other resources donated by retail and religious organisations (2018).</p>
     <br><br>
     
   </div>
