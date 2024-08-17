@@ -6,7 +6,7 @@ title: >
   </div>
 logo: /assets/img/headshot_circle.jpg
 description: >
-  <a href="https://www.linkedin.com/in/example/" style="display: block; text-align: center; font-size: 13px;">
+  <a href="https://www.linkedin.com/in/teko-ntimane/" style="display: block; text-align: center; font-size: 13px;">
     View My LinkedIn Profile
   </a>
   <div style="text-align: center;"><h3>Achievements</h3></div>
@@ -17,9 +17,9 @@ description: >
         display: none;
       }
     </style>
-    <strong>Tech4Dev Moderator, Speaker & Mentor:</strong>
-    <a>Empowering women and girls across Africa with digital skills and work readiness.</a>
-    <a href="https://example.com/tech4dev">Learn more</a>
+    <strong>Tech4Dev Women Techsters Moderator - April Edition</strong>
+    <p>Empowering women and girls across Africa with digital skills and work readiness.</p>
+    <a href="https://www.youtube.com/watch?v=3DOpdgdb4HE">YouTube Live Stream</a>
     <br><br>
     <strong>Youth Ambassador:</strong> 
     <a>Women In Tech South African Youth Ambassador and 2x winner for Digital & Social Impact (Paris, France).</a>
