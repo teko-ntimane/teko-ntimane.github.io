@@ -2,11 +2,11 @@ title: >
   <div style="text-align: center;">
     Teko Ntimane
     <br>
-    <span style="font-size: 12px;"><em>Moderator, Speaker, Mentor</em></span>
+    <span style="font-size: 14px;"><em>Moderator, Speaker, Mentor</em></span>
   </div>
 logo: /assets/img/headshot_circle.jpg
 description: >
-  <div style="text-align: center;"><em>Moderator, Speaker, Mentor</em></div>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
   <div style="text-align: center;"><h3>Achievements</h3></div>
   <div style="max-height: 250px; overflow-y: scroll; font-size: 12px; scrollbar-width: none; -ms-overflow-style: none;">
     <style>
@@ -30,6 +30,5 @@ description: >
     <strong>Founder & Campaign Champion:</strong> Raised R16,000+ by founding End.ometriosis and running 21km for menstrual health awareness. 
     <a href="https://example.com/endometriosis-campaign">Learn more</a>
     <br><br>
-    <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
   </div>
 theme: jekyll-theme-minimal
