@@ -6,7 +6,11 @@ title: >
   </div>
 logo: /assets/img/headshot_circle.jpg
 description: >
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+  <div style="text-align: center; font-size: 14px;">
+    <a href="https://www.linkedin.com/in/example/" style="color: inherit; text-decoration: none;">
+      View My LinkedIn Profile
+    </a>
+  </div>
   <div style="text-align: center;"><h3>Achievements</h3></div>
   <div style="max-height: 250px; overflow-y: scroll; font-size: 12px; scrollbar-width: none; -ms-overflow-style: none;">
     <style>
