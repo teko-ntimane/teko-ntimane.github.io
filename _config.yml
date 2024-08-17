@@ -17,25 +17,35 @@ description: >
         display: none;
       }
     </style>
-    <strong>Tech4Dev Women Techsters Moderator - April Edition</strong>
+    <strong>Tech4Dev Women Techsters Moderator</strong>
     <p>Empowering women and girls across Africa with digital skills and work readiness.</p>
     <a href="https://www.youtube.com/watch?v=3DOpdgdb4HE">YouTube Live Stream</a>
     <br><br>
-    <strong>Youth Ambassador:</strong> 
-    <a>Women In Tech South African Youth Ambassador and 2x winner for Digital & Social Impact (Paris, France).</a>
-    <a href="https://example.com/youth-ambassador">Learn more</a>
-    <br><br>
-    <strong>Global Program Coordinator:</strong> 
-    <a>Co-launched Women In Tech Global Mentorship, connecting 200+ mentors with 1,000+ mentees.</a>
-    <a href="https://example.com/global-program-coordinator">Learn more</a>
-    <br><br>
+
     <strong>Program Pioneer:</strong> 
-    <a>Launched Sanlam's Data & Digital Academy experience week, providing practical experience to students.</a>
+    <p>Launched Sanlam's Data & Digital Academy experience week, providing practical experience to students.</p>
     <a href="https://example.com/program-pioneer">Learn more</a>
     <br><br>
+    
+    <strong>Women In Tech Youth Ambassador</strong> 
+    <a>As a two-time chapter winner for Digital & Social Impact in Paris, France, we are an international organization dedicated to closing the gender gap and encouraging women to embrace technology. Our mission is to educate, equip, and empower women and girls with the skills and confidence needed to thrive in STEAM careers.</a>
+    <a href="https://www.linkedin.com/company/womenintech-south-africa/">Learn more</a>
+    <br><br>
+    
+    <strong>Fireside Chat Moderator</strong> 
+    <p>Co-moderated a fireside chat with the Head of Data and Analytics, where we explored her career journey, challenges, and achievements. We also discussed the importance of increasing the presence of women in technology, leadership, and mentoring roles.</p>
+    <a href="https://www.youtube.com/watch?v=o62Ui7VXraI">YouTube Live Stream</a>
+    <br><br>
+    
+    <strong>Global Program Coordinator:</strong> 
+    <p>Co-launched Women In Tech Global Mentorship, connecting 200+ mentors with 1,000+ mentees to support and encourage women and girls in developing career-specific skills and empowering them to build confidence, communicate effectively, and pursue opportunities (2022).</p>
+    <a href="https://women-in-tech-mentoring.oneuponedown.org/">Learn more</a>
+    <br><br>
+    
     <strong>Founder & Campaign Champion:</strong> 
-    <a>Raised R16,000+ by founding End.ometriosis and running 21km for menstrual health awareness.</a>
+    <p>Raised R16,000+ by founding End.ometriosis and running 21km for menstrual health awareness.</p>
     <a href="https://example.com/endometriosis-campaign">Learn more</a>
     <br><br>
+    
   </div>
 theme: jekyll-theme-minimal
