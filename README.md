@@ -41,12 +41,12 @@ _Cape Town, South
 - Automated the acquisition model thing (Commercial Performance)
 
 
-
 **Data Scientist & Graduate @ Sanlam Limited (_Jan 2020 - Mar 2022_)**<br>
 _Cape Town, South Africa_
-- Developed and deployed the Created Client Offer Matrix using statistical analysis, SQL, and R to define product baskets for customer segments, facilitating successful cross-selling and upselling by brokers.
-- Used machine learning to predict mortality rates, identifying underwriting process gaps and prompting policy term and condition revisions for enhanced claims outcomes.
-- Pioneered the Sanlam SDDA Workplace Experience, providing final year university students with practical data science and analytics workplace experience and networking opportunities within the organization (currently running for 3 years).
+- Developed and deployed the Client Offer Matrix (based on Client Lifetime Value methods and concepts), utilizing statistical analysis, SQL, and R to create product baskets for customer segments. This facilitated effective cross-selling and upselling by brokers, enhancing overall sales strategies.
+- Used machine learning to predict mortality rates which lead to identifying underwriting process gaps and prompting policy term and condition revisions for enhanced claims outcomes.
+- Collaborated with Sanlam Life to analyze the impact of Covid-19 on their claims experience. Utilized advanced analytics to estimate and forecast the number and value of policy claims related to mortalities during the pandemic, addressing the challenge of limited data on Covid-related mortalities available at the early stages of the pandemic.
+- Pioneered the Sanlam SDDA Workplace Experience by recruiting final-year university students and providing them with hands-on data science and analytics training, as well as networking opportunities within the organization. Orchestrated a week of on-the-job training in collaboration with the Dell Foundation, which has been successfully running for three years.
 - Served as a tutor for the Data Science and Analytics module, assisting in the facilitation of learning and providing guidance to a cohort of approximately 25 graduates and existing staff, helping them master complex concepts and apply analytical techniques effectively.
 
 
